@@ -293,7 +293,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   isColor: true,
                 ),
                 PowerCards(
-                  topIcon: Icons.table_chart,
+                  topIcon: Icons.lightbulb_rounded,
                   title: 'Lights',
                   subtitle: 'Consumes 1KWh',
                   toggleIcon: Icons.toggle_off,
